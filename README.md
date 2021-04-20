@@ -34,5 +34,3 @@
 <a href="https://www.instagram.com/s.cvetanovski/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-s.cvetanovski-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:stef.cvetanovski@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-stef.cvetanovski@yahoo.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
