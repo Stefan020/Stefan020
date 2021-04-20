@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Graduate JavaScrip Academy at SEMOS Education.
+- 🎓 &nbsp; Graduated JavaScrip Academy at SEMOS Education.
 - 💼 &nbsp; Working as a intern React Developer.
 - 🌱 &nbsp; Learning more about SEO and Web Security.
 
