@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduated JavaScrip Academy at SEMOS Education.
-- 💼 &nbsp; Working as a intern React Developer.
 - 🌱 &nbsp; Learning more about SEO and Web Security.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
